@@ -15,3 +15,7 @@ npx zenn new:article
 ```
 
 [zenn cli link](https://zenn.dev/zenn/articles/install-zenn-cli)
+
+- 画像のアップロードページ
+
+[アップロード ページ](https://zenn.dev/dashboard/uploader)
