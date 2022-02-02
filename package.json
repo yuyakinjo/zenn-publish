@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/yuyakinjo/zenn-publish#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.99"
+    "zenn-cli": "^0.1.106"
   }
 }
